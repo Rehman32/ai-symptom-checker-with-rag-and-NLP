@@ -1,3 +1,5 @@
+#backend/symptom_checker.py
+
 import re
 
 # Predefined list of known symptoms (you’ll expand this later from dataset)
